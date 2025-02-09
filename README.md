@@ -1,1 +1,0 @@
-# sunspot_data
